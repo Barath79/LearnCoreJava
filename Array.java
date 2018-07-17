@@ -14,7 +14,7 @@ public class Array {
 			strarray[i] = "abc";
 		}
 		
-		
+		// Adding comment
 		for(int i=0;i<10;i++)
 			System.out.println(intarray[i] + "  " + strarray[i]);
 			}
