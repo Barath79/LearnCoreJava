@@ -15,9 +15,9 @@ public class Array {
 			strarray[i] = "abc";
 		}
 		
+		
 		for(int i=0;i<10;i++)
 			System.out.println(intarray[i] + "  " + strarray[i]);
 			}
-		
 	}
 
