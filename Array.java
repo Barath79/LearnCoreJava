@@ -19,4 +19,3 @@ public class Array {
 			System.out.println(intarray[i] + "  " + strarray[i]);
 			}
 	}
-
