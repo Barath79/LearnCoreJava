@@ -17,6 +17,8 @@ public class Array {
 		
 		for(int i=0;i<10;i++)
 			System.out.println(intarray[i] + "  " + strarray[i]);
+		for(int i=0;i<10;i++)
+			System.out.println(intarray[i] + "  " + strarray[i]);
 			}
 	}
 
