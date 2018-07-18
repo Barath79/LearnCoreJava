@@ -4,7 +4,7 @@ public class Array {
 
 	public static void main(String[] args) {
 		
-		int[] intarray;
+		int[] intarray; //int array
 		intarray = new int[10];
 		String[] strarray;
 		strarray = new String[10];
