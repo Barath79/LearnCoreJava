@@ -6,7 +6,7 @@ public class Array {
 		
 		int[] intarray; //int array
 		intarray = new int[10];
-		String[] strarray;
+		String[] strarray;  //str array
 		strarray = new String[10];
 		
 		for(int i=0;i<10;i++) {
