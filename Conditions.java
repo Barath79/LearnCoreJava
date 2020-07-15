@@ -47,7 +47,7 @@ public class Conditions {
 		}
 				
 	}
-}
+} //End of class
 
 	
 
